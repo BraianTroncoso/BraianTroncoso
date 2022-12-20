@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**BraianTroncoso/BraianTroncoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" width="300">
+<img align="center" width="200" src="https://user-images.githubusercontent.com/95662710/208617544-901077fa-f817-4b64-8185-1aeef6f6afda.jpg"/>
+<h3 align="center">¡Hi 👋! i'm Braian 👨🏻‍💻</h3>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const braian = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
+}
+```
+<p align="center">I am <strong> a FullStack Programming student.</strong></p>
