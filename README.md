@@ -10,7 +10,8 @@
 const braian = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Vsc, Storybook, Styled-Components,Intellij]
+  tools: [React, Redux, Node, Vsc, Storybook, Styled-Components, Intellij, Jira]
+  methodologies: [Águile/Scrum]
 }
 ```
 <p align="center">I am <strong> a FullStack Programming student.</strong></p>
