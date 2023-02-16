@@ -11,7 +11,7 @@ const braian = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Boostrap, Spring-Boot, Redux, Node, Vsc, Storybook, Styled-Components, Intellij, Jira],
-  methodologies: [Águile/Scrum]
+  methodologies: [Aguile/Scrum]
 }
 ```
 <p align="center">I am <strong> a FullStack Programming student.</strong></p>
