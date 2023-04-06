@@ -11,7 +11,7 @@ const braian = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   framework: [Boostrap5, Spring-Boot],
-  tools: [React, Redux, Node, Vsc, Storybook, Styled-Components, Intellij, Jira],
+  tools: [Angular, Redux, Node, Vsc, Storybook, Styled-Components, Intellij, Jira],
   methodologies: [Aguile/Scrum]
 }
 ```
