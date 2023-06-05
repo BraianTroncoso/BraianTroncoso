@@ -9,7 +9,7 @@
 ```javascript
 const braian = {
   pronouns: "he" | "him",
-  code: [Java, Python, Javascript, Typescript, HTML, CSS, SASS],
+  code: [Java, Python, Javascript, Typescript, HTML, CSS],
   framework: [Angular, Django, Spring-Boot, Boostrap5],
   tools: [Git, Node, Vsc, Storybook, Styled-Components, IntelliJ IDEA, Jira, Figma, Canva],
   methodologies: [Aguile/Scrum]
