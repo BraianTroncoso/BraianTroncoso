@@ -15,4 +15,4 @@ const braian = {
   methodologies: [Aguile/Scrum]
 }
 ```
-<p align="center">I am <strong> a FullStack Programming.</strong></p>
+<p align="center">I am <strong> a FullStack Programming</strong></p>
