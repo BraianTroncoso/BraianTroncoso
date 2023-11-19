@@ -13,6 +13,6 @@ const braian = {
   framework: [Angular, Django, Spring-Boot, Boostrap5],
   tools: [Git, Vsc, Storybook, Styled-Components, IntelliJ IDEA, Android Studio, Jira, Figma, Canva],
   methodologies: [Aguile/Scrum]
-}
+};
 ```
 <p align="center">I am <strong> a FullStack Programming</strong></p>
