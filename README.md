@@ -7,7 +7,7 @@
 const braian = {
   pronouns: "he" | "him",
   code: [Java, Python, Javascript, Typescript, Node, HTML, XML, CSS, MySQL, PostgreSQL, MongoDB],
-  framework: [Angular, Django, Spring-Boot, Boostrap5],
+  framework: [Angular, Django, Spring-Boot, Quarkus, Boostrap5],
   tools: [Git, Vsc, Styled-Components, IntelliJ IDEA, Android Studio, Jira, Figma, Canva, Linux, Postman, Swagger, Docker],
   methodologies: [Agile/Scrum]
 };
