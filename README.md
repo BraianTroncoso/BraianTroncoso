@@ -20,24 +20,8 @@
   }
 };
 
-function likesProfile() {
-  return true;
-}
-
-function validExperience() {
-  return true;
-}
-
-function correctTechnologies() {
-  return true;
-}
-
 if (likesProfile() && validExperience() && correctTechnologies()) {
   collaborateWith(braian);
-}
-
-function collaborateWith(person) {
-  window.location.href = "mailto:troncosobraianaxel@gmail.com";
 }
 
 ```
