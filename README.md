@@ -4,7 +4,8 @@
 <h3 align="center">¡Hi 👋! I'm Braian 👨🏻‍💻</h3>
 
 ```javascript
- pronouns: "he" | "him",
+const braian = {
+  pronouns: "he" | "him",
   code: [Java, Python, Javascript, Typescript, Node, HTML, XML, CSS, SCSS, MySQL, PostgreSQL, MongoDB],
   framework: [Angular, Django, Spring-Boot, Android, Quarkus, Boostrap5],
   tools: [Git, Vsc, Styled-Components, IntelliJ IDEA, Jira, Figma, Canva, Linux, Postman, Swagger, Docker],
@@ -22,7 +23,7 @@
 
 if (likesProfile() && validExperience() && correctTechnologies()) {
   collaborateWith(braian);
-}
+};
 
 ```
 <p align="center">I am <strong> a FullStack Programming</strong></p>
