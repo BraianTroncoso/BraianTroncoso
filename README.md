@@ -9,8 +9,22 @@ const braian = {
   code: [Java, Python, Javascript, Typescript, Node, HTML, XML, CSS, SCSS, MySQL, PostgreSQL, MongoDB],
   framework: [Angular, Django, Spring-Boot, Android, Quarkus, Boostrap5],
   tools: [Git, Vsc, Styled-Components, IntelliJ IDEA, Jira, Figma, Canva, Linux, Postman, Swagger, Docker],
-  methodologies: [Agile/Scrum]
+  methodologies: [Agile/Scrum],
+  
+  experienceIn: function() {
+    return `I have experience in developing applications following the best programming practices,
+    such as clean code, SOLID principle, DRY and KISS. In addition, I have knowledge in design patterns such as MVC,
+    MVP and MVVM, as well as in the proper use of creative, structural and behavioral patterns to improve the maintainability,
+    scalability and efficiency of systems.`;
+  },
+
+  timeFree: function() {
+    return "In my free time, I enjoy watching anime, reading, studying and going to the gym.";
+  }
 };
+
+console.log(braian.experienceIn());
+console.log(braian.timeFree());
 ```
 <p align="center">I am <strong> a FullStack Programming</strong></p>
 <div align="center">
