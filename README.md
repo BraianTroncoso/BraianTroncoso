@@ -6,16 +6,14 @@
 ```javascript
 const braian = {
   pronouns: "he" | "him",
-  code: [Java, Python, Javascript, Typescript, Node, HTML, XML, CSS, SCSS, MySQL, PostgreSQL, MongoDB],
-  framework: [Angular, Django, Spring-Boot, Android, Quarkus, Boostrap5],
-  tools: [Git, Vsc, Styled-Components, IntelliJ IDEA, Jira, Figma, Canva, Linux, Postman, Swagger, Docker],
-  methodologies: [Agile/Scrum],
+  code: ["Java", "Python", "Javascript", "Typescript", "Node", "HTML", "XML", "CSS", "SCSS", "MySQL", "PostgreSQL", "MongoDB"],
+  framework: ["Angular", "Django", "Spring-Boot", "Android", "Quarkus", "Boostrap5"],
+  tools: ["Git", "Vsc", "Styled-Components", "IntelliJ IDEA", "Jira", "Figma", "Canva", "Linux", "Postman", "Swagger", "Docker"],
+  methodologies: ["Agile/Scrum"],
   
   experienceIn: function() {
-    return `I have experience in developing applications following the best programming practices,
-    such as clean code, SOLID principle, DRY and KISS. In addition, I have knowledge in design patterns such as MVC,
-    MVP and MVVM, as well as in the proper use of creative, structural and behavioral patterns to improve the maintainability,
-    scalability and efficiency of systems.`;
+    return "Experienced in developing applications with clean code, SOLID principle, and design patterns like MVC, MVP,
+    and MVVM for improved maintainability, scalability, and efficiency.";
   },
 
   timeFree: function() {
@@ -25,6 +23,27 @@ const braian = {
 
 console.log(braian.experienceIn());
 console.log(braian.timeFree());
+
+function likesProfile() {
+  return true;
+}
+
+function validExperience() {
+  return true;
+}
+
+function correctTechnologies() {
+  return true;
+}
+
+if (likesProfile() && validExperience() && correctTechnologies()) {
+  collaborateWith(braian);
+}
+
+function collaborateWith(person) {
+  window.location.href = "mailto:troncosobraianaxel@gmail.com";
+}
+
 ```
 <p align="center">I am <strong> a FullStack Programming</strong></p>
 <div align="center">
