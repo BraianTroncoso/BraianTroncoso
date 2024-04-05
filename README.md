@@ -4,12 +4,11 @@
 <h3 align="center">¡Hi 👋! I'm Braian 👨🏻‍💻</h3>
 
 ```javascript
-const braian = {
-  pronouns: "he" | "him",
-  code: ["Java", "Python", "Javascript", "Typescript", "Node", "HTML", "XML", "CSS", "SCSS", "MySQL", "PostgreSQL", "MongoDB"],
-  framework: ["Angular", "Django", "Spring-Boot", "Android", "Quarkus", "Boostrap5"],
-  tools: ["Git", "Vsc", "Styled-Components", "IntelliJ IDEA", "Jira", "Figma", "Canva", "Linux", "Postman", "Swagger", "Docker"],
-  methodologies: ["Agile/Scrum"],
+ pronouns: "he" | "him",
+  code: [Java, Python, Javascript, Typescript, Node, HTML, XML, CSS, SCSS, MySQL, PostgreSQL, MongoDB],
+  framework: [Angular, Django, Spring-Boot, Android, Quarkus, Boostrap5],
+  tools: [Git, Vsc, Styled-Components, IntelliJ IDEA, Jira, Figma, Canva, Linux, Postman, Swagger, Docker],
+  methodologies: [Agile/Scrum],
   
   experienceIn: function() {
     return "Experienced in developing applications with clean code, SOLID principle, and design patterns like MVC, MVP,
@@ -20,9 +19,6 @@ const braian = {
     return "In my free time, I enjoy watching anime, reading, studying and going to the gym.";
   }
 };
-
-console.log(braian.experienceIn());
-console.log(braian.timeFree());
 
 function likesProfile() {
   return true;
