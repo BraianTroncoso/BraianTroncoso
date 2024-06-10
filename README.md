@@ -12,12 +12,14 @@ const braian = {
   methodologies: [Agile/Scrum],
   
   experienceIn: function() {
-    return "Experienced in developing applications with clean code, SOLID principle, and design patterns like MVC, MVP,
+    return "Experienced in developing applications with clean code, SOLID principle,
+    and design patterns like MVC, MVP,
     and MVVM for improved maintainability, scalability, and efficiency.";
   },
 
   timeFree: function() {
-    return "In my free time, I enjoy watching anime, reading, studying and going to the gym.";
+    return "In my free time, I enjoy watching anime, reading,
+    studying and going to the gym.";
   }
 };
 
