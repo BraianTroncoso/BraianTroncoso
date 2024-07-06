@@ -6,7 +6,7 @@
 ```javascript
 const braian = {
   pronouns: "he" | "him",
-  code: [Java, Python, Javascript, Typescript, Node, HTML, XML, CSS, SCSS, MySQL, PostgreSQL, MongoDB],
+  code: [Java, Python, Javascript, Typescript, Node, HTML, XML, CSS, SCSS, MySQL, MariaDB, PostgreSQL, MongoDB],
   framework: [Angular, Django, Spring-Boot, Android, Quarkus, Boostrap5],
   tools: [Git, Vsc, Styled-Components, IntelliJ IDEA, Jira, Figma, Canva, Linux, Postman, Swagger, Docker],
   methodologies: [Agile/Scrum],
