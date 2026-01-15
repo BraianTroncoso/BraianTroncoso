@@ -1,7 +1,6 @@
 <p align="center">
-  <img align="center" width="200" src="https://github.com/BraianTroncoso/BraianTroncoso/assets/95662710/c996c620-741e-46d7-92b4-7c94d200cf71" alt="braian_troncoso_profile" />
+  <img align="center" width="1200" src="https://github.com/user-attachments/assets/60474d94-e228-4b02-890a-38dd11384ef4" alt="braian_troncoso_profile" />
 </p>
-
 <h3 align="center">¡Hi 👋! I'm Braian 👨🏻‍💻</h3>
 <p align="center">I am <strong>a FullStack Developer</strong></p>
 
