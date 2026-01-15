@@ -3,108 +3,122 @@
 </p>
 
 <h3 align="center">¡Hi 👋! I'm Braian 👨🏻‍💻</h3>
-
 <p align="center">I am <strong>a FullStack Developer</strong></p>
 
-```diff
-@@                    braian@dev:~$ neofetch --developer                    @@
-
-        .-/+oossssoo+/-.              braian@github
-    `:+ssssssssssssssssss+:`          ----------------------------
-  -+ssssssssssssssssssssssss+-        
- /sssssssssssssssssssssssssssss/      + OS: Ubuntu Dev 24.04 LTS
-+sssssssssssssssssssssssssssssss+     + Role: FullStack Developer
-ssssssssssssssssssssssssssssssss      + Status: Always coding...
-ssssssssssssssssssssssssssssssss      + Uptime: 24/7
-+sssssssssssssssssssssssssssssss+     
- /sssssssssssssssssssssssssssss/      - Pronouns: he | him
-  -+ssssssssssssssssssssssss+-        - Contact: Let's collaborate!
-    `:+ssssssssssssssssss+:`          
-        .-/+oossssoo+/-.
 ```
+braian@ubuntu:~$ neofetch
 
-```diff
-@@                      braian@dev:~$ cat languages.sh                      @@
+             .-/+oossssoo+/-.
+         `:+ssssssssssssssssss+:`
+       -+ssssssssssssssssssyyssss+-         braian@github
+     .ossssssssssssssssssdMMMNysssso.       ─────────────────────────────────────────────────────────────────────────
+    /ssssssssssshdmmNNmmyNMMMMhssssss/      OS: Ubuntu 24.04 LTS
+   +ssssssssshmydMMMMMMMNddddyssssssss+     Host: GitHub Profile
+  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Kernel: Developer-v3.0
+ .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Uptime: 24/7/365
+ +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Shell: bash 5.0
+ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Resolution: 1920x1080
+ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: /dev/tty1
+ +sssshhhyNMMNyssssssssssssyNMMMysssssss+   CPU: Passion @ 100%
+ .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Memory: Unlimited
+  /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Status: Always coding...
+   +sssssssssdmydMMMMMMMMddddyssssssss+     
+    /ssssssssssshdmNNNNmyNMMMMhssssss/      Role: FullStack Developer
+     .ossssssssssssssssssdMMMNysssso.       Pronouns: he | him
+       -+sssssssssssssssssyyyssss+-
+         `:+ssssssssssssssssss+:`
+             .-/+oossssoo+/-.
 
-+ [INSTALLED] PHP
-+ [INSTALLED] Java
-+ [INSTALLED] Python
-+ [INSTALLED] Javascript
-+ [INSTALLED] Typescript
-+ [INSTALLED] Node
-+ [INSTALLED] HTML / XML
-+ [INSTALLED] CSS / SCSS
-+ [INSTALLED] VUE
-+ [INSTALLED] MySQL / MariaDB / PostgreSQL / MongoDB
-```
 
-```diff
-@@                      braian@dev:~$ cat frameworks.sh                     @@
+braian@ubuntu:~$ cat /etc/languages.conf
 
-+ [ACTIVE] Laravel
-+ [ACTIVE] Angular
-+ [ACTIVE] Django
-+ [ACTIVE] Spring-Boot
-+ [ACTIVE] Android
-+ [ACTIVE] Quarkus
-+ [ACTIVE] Bootstrap5
-```
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+                                                                                                                  
+   PHP   |   Java   |   Python   |   Javascript   |   Typescript   |   Node   |   HTML   |   XML   |   CSS       
+                                                                                                                  
+   SCSS   |   VUE   |   MySQL   |   MariaDB   |   PostgreSQL   |   MongoDB                                       
+                                                                                                                  
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
-```diff
-@@                    braian@dev:~$ cat ai_stack.sh --2025                  @@
 
-! [NEW] Claude Code - Anthropic CLI Agent
-! [NEW] GitHub Copilot - AI Pair Programming
-! [NEW] MCP Protocol - Model Context Protocol
-! [NEW] Cursor AI - AI-Powered IDE
-! [NEW] LangChain - LLM Framework
-! [NEW] AI Agents - Autonomous Agents
-! [NEW] Prompt Engineering
-```
+braian@ubuntu:~$ cat /etc/frameworks.conf
 
-```diff
-@@                        braian@dev:~$ cat tools.sh                        @@
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+                                                                                                                  
+   Laravel   |   Angular   |   Django   |   Spring-Boot   |   Android   |   Quarkus   |   Bootstrap5             
+                                                                                                                  
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
-+ Git
-+ VSCode
-+ IntelliJ IDEA
-+ Jira
-+ Figma
-+ Canva
-+ Linux
-+ Postman
-+ Swagger
-+ Docker
-+ Styled-Components
-```
 
-```diff
-@@              braian@dev:~$ sudo systemctl status developer               @@
+braian@ubuntu:~$ sudo apt list --installed | grep "ai-tools"
 
-+ ● developer.service - Braian Developer Service
-+      Loaded: loaded (/etc/systemd/system/developer.service; enabled)
-+      Active: active (running) since always
-  
-- [EXPERIENCE]
-- Experienced in developing applications with clean code, SOLID principles,
-- and design patterns like MVC, MVP, and MVVM for improved maintainability,
-- scalability, and efficiency.
+[sudo] password for braian: ************
 
-+ [METHODOLOGIES]
-+ Agile/Scrum ✓
+ai-tools/stable [installed]
+│
+├── claude-code ─────────────────────────────────────────────────────────────────────────── Anthropic CLI Agent
+├── github-copilot ──────────────────────────────────────────────────────────────────────── AI Pair Programming
+├── mcp-protocol ────────────────────────────────────────────────────────────────────────── Model Context Protocol
+├── cursor-ai ───────────────────────────────────────────────────────────────────────────── AI-Powered IDE
+├── langchain ───────────────────────────────────────────────────────────────────────────── LLM Framework
+├── ai-agents ───────────────────────────────────────────────────────────────────────────── Autonomous Agents
+└── prompt-engineering ──────────────────────────────────────────────────────────────────── Prompt Design
 
-! [FREE TIME]
-! Watching anime | Reading | Studying | Gym
-```
 
-```diff
-@@                    braian@dev:~$ ./collaborate.sh                        @@
+braian@ubuntu:~$ ls -la /usr/bin/tools/
 
-if mass_likes_profile mass_AND valid_experience mass_AND correct_technologies
-then
-+    echo "Let's work together! 🚀"
-+    status: READY TO COLLABORATE
-fi
+drwxr-xr-x  braian  braian  4096  Jan 15  git
+drwxr-xr-x  braian  braian  4096  Jan 15  vscode
+drwxr-xr-x  braian  braian  4096  Jan 15  intellij-idea
+drwxr-xr-x  braian  braian  4096  Jan 15  docker
+drwxr-xr-x  braian  braian  4096  Jan 15  linux
+drwxr-xr-x  braian  braian  4096  Jan 15  postman
+drwxr-xr-x  braian  braian  4096  Jan 15  swagger
+drwxr-xr-x  braian  braian  4096  Jan 15  jira
+drwxr-xr-x  braian  braian  4096  Jan 15  figma
+
+
+braian@ubuntu:~$ cat /etc/experience.conf
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+                                                                                                                  
+   [EXPERIENCE]                                                                                                   
+                                                                                                                  
+   Experienced in developing applications with clean code, SOLID principles, and design patterns                 
+   like MVC, MVP, and MVVM for improved maintainability, scalability, and efficiency.                            
+                                                                                                                  
+   [METHODOLOGIES]                                                                                                
+   └── Agile/Scrum ✓                                                                                              
+                                                                                                                  
+   [FREE TIME]                                                                                                    
+   └── Watching Anime   |   Reading   |   Studying   |   Gym                                                      
+                                                                                                                  
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+braian@ubuntu:~$ ./collaborate.sh
+
+[*] Scanning visitor profile...
+[*] Analyzing compatibility...
+[*] Checking requirements...
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+                                                                                                                 
+   if [ likes_profile ] && [ valid_experience ] && [ correct_tech ]; then                                        
+       echo "Let's work together! 🚀"                                                                           
+   fi                                                                                                           
+                                                                                                                
+   >>> COLLABORATION PROTOCOL ACTIVE <<<                                                                      
+                                                                                                            
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+braian@ubuntu:~$ echo "Thanks for visiting!" && exit
+
+Thanks for visiting! 👋
+
+logout
+Connection to github.com closed.
 ```
 
 <div align="center">
@@ -114,10 +128,3 @@ fi
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 </div>
-
-```diff
-- braian@dev:~$ exit
-- logout
-- Connection to github.com closed.
-+ Thanks for visiting! 👋
-```
