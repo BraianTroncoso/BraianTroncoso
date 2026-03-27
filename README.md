@@ -1,8 +1,28 @@
-<p align="center">
-  <img align="center" width="1200" src="https://github.com/user-attachments/assets/60474d94-e228-4b02-890a-38dd11384ef4" alt="braian_troncoso_profile" />
-</p>
 <h3 align="center">¡Hi 👋! I'm Braian 👨🏻‍💻</h3>
-<p align="center">I am <strong>a FullStack Developer</strong></p>
+
+<p align="center">
+   <strong>AI-native Full Stack Developer</strong> &nbsp;|&nbsp;
+   <strong>Co-Founder @ Dmeter</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MCP-121212?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+> I build AI agents that cut costs by 70%, design systems that generate premium websites from a single codebase, and stoic habit apps with philosophers that talk back. Currently leading dev teams remotely for Europe while shipping my own products on the side.
+
+---
 
 ```
 braian@ubuntu:~$ neofetch
@@ -21,8 +41,8 @@ braian@ubuntu:~$ neofetch
  +sssshhhyNMMNyssssssssssssyNMMMysssssss+   CPU: Passion @ 100%
  .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Memory: Unlimited
   /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Status: Always coding...
-   +sssssssssdmydMMMMMMMMddddyssssssss+     
-    /ssssssssssshdmNNNNmyNMMMMhssssss/      Role: FullStack Developer
+   +sssssssssdmydMMMMMMMMddddyssssssss+
+    /ssssssssssshdmNNNNmyNMMMMhssssss/      Role: FullStack Developer / Project Leader
      .ossssssssssssssssssdMMMNysssso.       Pronouns: he | him
        -+sssssssssssssssssyyyssss+-
          `:+ssssssssssssssssss+:`
@@ -44,7 +64,7 @@ braian@ubuntu:~$ cat /etc/frameworks.conf
 
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
                                                                                                                   
-   Laravel   |   Angular   |   Django   |   Spring-Boot   |   Android   |   Quarkus   |   Bootstrap5             
+   Laravel   |   Vue.js   |   Angular   |   Django   |   Spring-Boot   |   Next.js   |   Bootstrap5              
                                                                                                                   
 └──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
@@ -56,12 +76,13 @@ braian@ubuntu:~$ sudo apt list --installed | grep "ai-tools"
 ai-tools/stable [installed]
 │
 ├── claude-code ─────────────────────────────────────────────────────────────────────────── Anthropic CLI Agent
+├── custom-mcp-servers ──────────────────────────────────────────────────────────────────── Own MCP tools built in-house
 ├── github-copilot ──────────────────────────────────────────────────────────────────────── AI Pair Programming
 ├── mcp-protocol ────────────────────────────────────────────────────────────────────────── Model Context Protocol
 ├── cursor-ai ───────────────────────────────────────────────────────────────────────────── AI-Powered IDE
 ├── langchain ───────────────────────────────────────────────────────────────────────────── LLM Framework
-├── ai-agents ───────────────────────────────────────────────────────────────────────────── Autonomous Agents
-└── prompt-engineering ──────────────────────────────────────────────────────────────────── Prompt Design
+├── ai-agents ───────────────────────────────────────────────────────────────────────────── Autonomous Agents (Claude, GPT, Gemini, Ollama)
+└── prompt-engineering ──────────────────────────────────────────────────────────────────── Prompt Design & Cost Optimization
 
 
 braian@ubuntu:~$ ls -la /usr/bin/tools/
@@ -83,18 +104,53 @@ braian@ubuntu:~$ cat /etc/experience.conf
                                                                                                                   
    [EXPERIENCE]                                                                                                   
                                                                                                                   
-   Experienced in developing applications with clean code, SOLID principles, and design patterns                 
-   like MVC, MVP, and MVVM for improved maintainability, scalability, and efficiency.                            
+   4+ years building production-ready systems with clean code, SOLID principles, and design              
+   patterns like MVC, MVP, and MVVM. Currently leading dev teams for a Madrid startup,                   
+   collaborating directly with founders on architecture, roadmap, and technical decisions.               
+   Building AI agents with Claude that cut generation costs by 70% ($10 → $2-3 per run).               
                                                                                                                   
    [METHODOLOGIES]                                                                                                
-   └── Agile/Scrum ✓                                                                                              
+   └── Agile/Scrum ✓   CI/CD ✓   TDD ✓   Microservices ✓   Multi-tenant ✓                               
                                                                                                                   
    [FREE TIME]                                                                                                    
-   └── Watching Anime   |   Reading   |   Studying   |   Gym                                                      
+   └── Watching Anime   |   Reading   |   Building products   |   Gym                                    
                                                                                                                   
 └──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
+---
 
+## 🏢 Dmeter — Co-Founder *(Sep 2023 – Present)*
+
+**[dmeter.com.ar](https://dmeter.com.ar/en/)** — Digital solutions that save time, reduce errors, and grow businesses. Technology with purpose, real results.
+
+Building and scaling the product from scratch alongside the technical and business side — architecture decisions, client delivery, and everything in between.
+
+---
+
+##  What I'm Building
+
+-  **[Frontdeck](https://github.com/BraianTroncoso/Frontdeck)** `private` — Design system platform that generates premium websites where every site has its own visual identity, narrative structure, and component architecture — from a single codebase. 474+ Vue components, 22 themes, 39 block types, 200+ variants, AI-native design pipeline. Not a template. A design engine. *(Laravel 12 + Vue 3 + Filament + Inertia + GSAP + Three.js + Tailwind 4)*
+
+-  **[LevelUp](https://github.com/BraianTroncoso/LevelUp)** `private` — Stoic habit tracker PWA with 23 curated daily habits, an honest self-evaluation flow ("did you actually do the work before feeling bad?"), and a live chat with Marcus Aurelius, Seneca, and Epictetus powered by Llama 3.3. XP system, streaks, Memento Mori tracker, shareable progress cards. Trilingual (ES/EN/PT), fully offline-capable. *(Next.js 16 + Framer Motion + Groq AI + PWA)*
+
+-  **[myjarbis](https://github.com/BraianTroncoso/myjarbis)** — AI Dev Assistant with persistent memory for Claude Code
+
+-  **[GesturePilot](https://github.com/BraianTroncoso/GesturePilot)** — Control Claude Code with hand gestures
+
+-  **[GymSphere](https://github.com/BraianTroncoso/GymSphere)** `private` — Gym management platform
+
+-  **[GAME-JAM-FAD-CUYO-2022](https://github.com/BraianTroncoso/GAME-JAM-FAD-CUYO-2022)** — A complete game built in under 12 hours at a game jam. Ship or die.
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BraianTroncoso&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4a853&icon_color=d4a853)
+
+---
+
+```bash
 braian@ubuntu:~$ ./collaborate.sh
 
 [*] Scanning visitor profile...
@@ -106,7 +162,7 @@ braian@ubuntu:~$ ./collaborate.sh
    if [ likes_profile ] && [ valid_experience ] && [ correct_tech ]; then                                        
        echo "Let's work together! 🚀"                                                                           
    fi                                                                                                           
-                                                                                                                
+                                                                                                            
    >>> COLLABORATION PROTOCOL ACTIVE <<<                                                                      
                                                                                                             
 └──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
@@ -120,10 +176,28 @@ logout
 Connection to github.com closed.
 ```
 
-<div align="center">
-  
-### ✍️ Random dev quote
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+## 🤝 Connect
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/-braian--troncoso-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-troncoso-0aaa56211)
+[![Portfolio](https://img.shields.io/badge/-braianaxeltroncoso.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://www.braianaxeltroncoso.com/)
+[![Email](https://img.shields.io/badge/-troncosobraianaxel@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:troncosobraianaxel@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BraianTroncoso)
+
+---
+
+<details>
+<summary>Random Facts</summary>
+
+- Cut AI generation costs 70% by optimizing token architecture in production
+- Build and use custom MCP servers in my daily dev workflow
+- Shipped a design engine with 474+ components from a single Laravel codebase
+- Finished a complete game in under 12 hours at a game jam
+- Powered by mate and stoic philosophy
+
+</details>
+
+---
+
+> *"Clean code, tested systems, and AI that actually ships — that's what I build."*
