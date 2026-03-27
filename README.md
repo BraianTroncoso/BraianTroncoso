@@ -1,11 +1,11 @@
-<h3 align="center">¡Hi 👋! I'm Braian 👨🏻‍💻</h3>
+<h3 align="start">¡Hi 👋! I'm Braian 👨🏻‍💻</h3>
 
-<p align="center">
+<p align="start">
    <strong>AI-native Full Stack Developer</strong> &nbsp;|&nbsp;
    <strong>Co-Founder @ Dmeter</strong>
 </p>
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -144,9 +144,9 @@ Building and scaling the product from scratch alongside the technical and busine
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity on Invisible Geeks
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BraianTroncoso&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=d4a853&icon_color=d4a853)
+![Work Graph](https://ghchart.rshah.org/braiantroncosoinvisiblegeek)
 
 ---
 
