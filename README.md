@@ -84,26 +84,6 @@ braian@ubuntu:~$ neofetch
              .-/+oossssoo+/-.
 
 
-braian@ubuntu:~$ cat /etc/languages.conf
-
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-                                                                                                                  
-   PHP   |   Java   |   Python   |   Javascript   |   Typescript   |   Node   |   HTML   |   XML   |   CSS       
-                                                                                                                  
-   SCSS   |   VUE   |   MySQL   |   MariaDB   |   PostgreSQL   |   MongoDB                                       
-                                                                                                                  
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-
-
-braian@ubuntu:~$ cat /etc/frameworks.conf
-
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-                                                                                                                  
-   Laravel   |   Vue.js   |   Angular   |   Django   |   Spring-Boot   |   Next.js   |   Bootstrap5              
-                                                                                                                  
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-
-
 braian@ubuntu:~$ sudo apt list --installed | grep "ai-tools"
 
 [sudo] password for braian: ************
@@ -120,30 +100,10 @@ ai-tools/stable [installed]
 └── prompt-engineering ──────────────────────────────────────────────────────────────────── Prompt Design & Cost Optimization
 
 
-braian@ubuntu:~$ ls -la /usr/bin/tools/
-
-drwxr-xr-x  braian  braian  4096  Jan 15  git
-drwxr-xr-x  braian  braian  4096  Jan 15  vscode
-drwxr-xr-x  braian  braian  4096  Jan 15  intellij-idea
-drwxr-xr-x  braian  braian  4096  Jan 15  docker
-drwxr-xr-x  braian  braian  4096  Jan 15  linux
-drwxr-xr-x  braian  braian  4096  Jan 15  postman
-drwxr-xr-x  braian  braian  4096  Jan 15  swagger
-drwxr-xr-x  braian  braian  4096  Jan 15  jira
-drwxr-xr-x  braian  braian  4096  Jan 15  figma
-
-
 braian@ubuntu:~$ cat /etc/experience.conf
 
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-                                                                                                                  
-   [EXPERIENCE]                                                                                                   
-                                                                                                                  
-   4+ years building production-ready systems with clean code, SOLID principles, and design              
-   patterns like MVC, MVP, and MVVM. Currently leading dev teams for a Madrid startup,                   
-   collaborating directly with founders on architecture, roadmap, and technical decisions.               
-   Building AI agents with Claude that cut generation costs by 70% ($10 → $2-3 per run).               
-                                                                                                                  
+                                                                                                                                       
    [METHODOLOGIES]                                                                                                
    └── Agile/Scrum ✓   CI/CD ✓   TDD ✓   Microservices ✓   Multi-tenant ✓                               
                                                                                                                   
@@ -151,9 +111,7 @@ braian@ubuntu:~$ cat /etc/experience.conf
    └── Watching Anime   |   Reading   |   Building products   |   Gym                                    
                                                                                                                   
 └──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
 
-```bash
 braian@ubuntu:~$ ./collaborate.sh
 
 [*] Scanning visitor profile...
@@ -177,8 +135,8 @@ Thanks for visiting! 👋
 
 logout
 Connection to github.com closed.
-```
 
+```
 ---
 
 ## 🤝 Connect
