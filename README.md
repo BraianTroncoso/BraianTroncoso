@@ -1,8 +1,7 @@
 <h3 align="start">¡Hi 👋! I'm Braian 👨🏻‍💻</h3>
 
 <p align="start">
-   <strong>AI-native Full Stack Developer</strong> &nbsp;|&nbsp;
-   <strong>Co-Founder @ Dmeter</strong>
+   <strong>AI-native Full Stack Developer</strong> 
 </p>
 
 <p align="start">
