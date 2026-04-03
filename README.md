@@ -39,6 +39,8 @@
 
 -  **[GymSphere](https://github.com/BraianTroncoso/GymSphere)** `private` — Gym management platform
 
+-  **[SecondBraian](https://github.com/BraianTroncoso/SecondBraian)** `private` — My second brain — Personal knowledge vault powered by Obsidian. PARA method, Maps of Content, 10 custom templates. Where thoughts become connections and chaos becomes clarity.
+
 -  **[GAME-JAM-FAD-CUYO-2022](https://github.com/BraianTroncoso/GAME-JAM-FAD-CUYO-2022)** — A complete game built in under 12 hours at a game jam. Ship or die.
 
 ---
