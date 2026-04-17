@@ -35,9 +35,9 @@
 
 -  **[takeclass](https://github.com/BraianTroncoso/takeclass)** — Turn your day's git diff into an English practice session. A Claude Code skill + `/takeclass` slash command that generates warm-up vocabulary, a reading script, rephrase drills, and self-check questions from the actual code you shipped today. Built so devs can practice explaining their own work, not generic dialogues. *(Claude Code skill + slash command, MIT)*
 
--  **[myjarbis](https://github.com/BraianTroncoso/myjarbis)** — AI Dev Assistant with persistent memory for Claude Code
+-  **[myjarbis](https://github.com/BraianTroncoso/myjarbis)** — AI dev assistant that gives Claude Code persistent memory and structured workflows via MCP. One global MCP server serves every project through `myjarbis://` resources, backed by per-project `.myjarbis/` memory (project summary, knowledge base, daily log). Ships with intelligent code search, curated context tools, an `update_memory` API, a `myjarbis` CLI and a `doctor` healthcheck. Install once, use everywhere. *(Node.js + MCP + Bash installer, macOS / Linux / WSL2)*
 
--  **[GesturePilot](https://github.com/BraianTroncoso/GesturePilot)** — Control Claude Code with hand gestures
+-  **[GesturePilot](https://github.com/BraianTroncoso/GesturePilot)** — Control Claude Code with hand gestures and voice, from your webcam. Program standing up, dictate while walking, no keyboard needed. MediaPipe tracks 21 hand landmarks in real time, Faster-Whisper transcribes locally (no API key), Piper TTS speaks back, and a state machine (IDLE → LISTENING → PROCESSING → EXECUTING) drives an auto-submit flow with a live preview window. Native MCP integration. *(Python 3.10+ + MediaPipe + Faster-Whisper + Piper TTS, Windows / Linux / macOS)*
 
 -  **[GymSphere](https://github.com/BraianTroncoso/GymSphere)** `private` — Gym management platform
 
