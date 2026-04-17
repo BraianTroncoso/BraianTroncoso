@@ -33,6 +33,8 @@
 
 -  **[LevelUp](https://github.com/BraianTroncoso/LevelUp)** `private` — Stoic habit tracker PWA with 23 curated daily habits, an honest self-evaluation flow ("did you actually do the work before feeling bad?"), and a live chat with Marcus Aurelius, Seneca, and Epictetus powered by Llama 3.3. XP system, streaks, Memento Mori tracker, shareable progress cards. Trilingual (ES/EN/PT), fully offline-capable. *(Next.js 16 + Framer Motion + Groq AI + PWA)*
 
+-  **[takeclass](https://github.com/BraianTroncoso/takeclass)** — Turn your day's git diff into an English practice session. A Claude Code skill + `/takeclass` slash command that generates warm-up vocabulary, a reading script, rephrase drills, and self-check questions from the actual code you shipped today. Built so devs can practice explaining their own work, not generic dialogues. *(Claude Code skill + slash command, MIT)*
+
 -  **[myjarbis](https://github.com/BraianTroncoso/myjarbis)** — AI Dev Assistant with persistent memory for Claude Code
 
 -  **[GesturePilot](https://github.com/BraianTroncoso/GesturePilot)** — Control Claude Code with hand gestures
