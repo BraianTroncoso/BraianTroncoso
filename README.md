@@ -41,6 +41,8 @@
 
 -  **[GesturePilot](https://github.com/BraianTroncoso/GesturePilot)** — Control Claude Code with hand gestures and voice, from your webcam. Program standing up, dictate while walking, no keyboard needed. MediaPipe tracks 21 hand landmarks in real time, Faster-Whisper transcribes locally (no API key), Piper TTS speaks back, and a state machine (IDLE → LISTENING → PROCESSING → EXECUTING) drives an auto-submit flow with a live preview window. Native MCP integration. *(Python 3.10+ + MediaPipe + Faster-Whisper + Piper TTS, Windows / Linux / macOS)*
 
+-  **[IwannaWork](https://github.com/BraianTroncoso/IwannaWork)** `private` — Job-hunting autopilot for LinkedIn Easy Apply. Scans `/jobs/search` for your keywords, applies automatically through the multi-step form, and watches the feed for hiring posts with contact emails. Drives Easy Apply via pure-JS shadow-DOM traversal, fingerprints each form step to escape stuck loops, and runs an adaptive throttle that calibrates itself when LinkedIn whispers "too fast". Human delays, coffee breaks, work hours, daily ceiling — simulates a tired human, not a ghost. Live Vue dashboard streams every application over SSE. *(Python + FastAPI + Vue 3 + Selenium + undetected-chromedriver + SQLite)*
+
 -  **[GymSphere](https://github.com/BraianTroncoso/GymSphere)** `private` — Gym management platform
 
 -  **[SecondBraian](https://github.com/BraianTroncoso/SecondBraian)** `private` — My second brain — Personal knowledge vault powered by Obsidian. PARA method, Maps of Content, 10 custom templates. Where thoughts become connections and chaos becomes clarity.
