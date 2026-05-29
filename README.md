@@ -71,28 +71,6 @@ Building and scaling the product from scratch alongside the technical and busine
 ---
 
 ```
-braian@ubuntu:~$ neofetch
-
-             .-/+oossssoo+/-.
-         `:+ssssssssssssssssss+:`
-       -+ssssssssssssssssssyyssss+-         braian@github
-     .ossssssssssssssssssdMMMNysssso.       ─────────────────────────────────────────────────────────────────────────
-    /ssssssssssshdmmNNmmyNMMMMhssssss/      OS: Ubuntu 24.04 LTS
-   +ssssssssshmydMMMMMMMNddddyssssssss+     Host: GitHub Profile
-  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Kernel: Developer-v3.0
- .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Uptime: 24/7/365
- +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Shell: bash 5.0
- ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Resolution: 1920x1080
- ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: /dev/tty1
- +sssshhhyNMMNyssssssssssssyNMMMysssssss+   CPU: Passion @ 100%
- .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Memory: Unlimited
-  /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Status: Always coding...
-   +sssssssssdmydMMMMMMMMddddyssssssss+
-    /ssssssssssshdmNNNNmyNMMMMhssssss/      Role: FullStack Developer / Project Leader
-     .ossssssssssssssssssdMMMNysssso.       Pronouns: he | him
-       -+sssssssssssssssssyyyssss+-
-         `:+ssssssssssssssssss+:`
-             .-/+oossssoo+/-.
 
 
 braian@ubuntu:~$ sudo apt list --installed | grep "ai-tools"
