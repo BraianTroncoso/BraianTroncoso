@@ -70,62 +70,8 @@ Building and scaling the product from scratch alongside the technical and busine
 
 ---
 
-```
 
 
-braian@ubuntu:~$ sudo apt list --installed | grep "ai-tools"
-
-[sudo] password for braian: ************
-
-ai-tools/stable [installed]
-│
-├── claude-code ─────────────────────────────────────────────────────────────────────────── Anthropic CLI Agent
-├── custom-mcp-servers ──────────────────────────────────────────────────────────────────── Own MCP tools built in-house
-├── github-copilot ──────────────────────────────────────────────────────────────────────── AI Pair Programming
-├── mcp-protocol ────────────────────────────────────────────────────────────────────────── Model Context Protocol
-├── cursor-ai ───────────────────────────────────────────────────────────────────────────── AI-Powered IDE
-├── langchain ───────────────────────────────────────────────────────────────────────────── LLM Framework
-├── ai-agents ───────────────────────────────────────────────────────────────────────────── Autonomous Agents (Claude, GPT, Gemini, Ollama)
-└── prompt-engineering ──────────────────────────────────────────────────────────────────── Prompt Design & Cost Optimization
-
-
-braian@ubuntu:~$ cat /etc/experience.conf
-
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-                                                                                                                                       
-   [METHODOLOGIES]                                                                                                
-   └── Agile/Scrum ✓   CI/CD ✓   TDD ✓   Microservices ✓   Multi-tenant ✓                               
-                                                                                                                  
-   [FREE TIME]                                                                                                    
-   └── Watching Anime   |   Reading   |   Building products   |   Gym                                    
-                                                                                                                  
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-
-braian@ubuntu:~$ ./collaborate.sh
-
-[*] Scanning visitor profile...
-[*] Analyzing compatibility...
-[*] Checking requirements...
-
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-                                                                                                                 
-   if [ likes_profile ] && [ valid_experience ] && [ correct_tech ]; then                                        
-       echo "Let's work together! 🚀"                                                                           
-   fi                                                                                                           
-                                                                                                            
-   >>> COLLABORATION PROTOCOL ACTIVE <<<                                                                      
-                                                                                                            
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-
-
-braian@ubuntu:~$ echo "Thanks for visiting!" && exit
-
-Thanks for visiting! 👋
-
-logout
-Connection to github.com closed.
-
-```
 ---
 
 ## 🤝 Connect
