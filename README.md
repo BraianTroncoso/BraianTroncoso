@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Engineering AI-powered tools that move businesses forward — AI-native Full Stack Developer" width="100%"/>
+  <img src="./assets/banner.svg" alt="Engineering AI-powered tools that move businesses forward — AI-native Full Stack Developer" width="100%"/>
 </p>
 
 <h3 align="start"><code>git clone my-brain && enjoy the chaos</code> 🧠</h3>
