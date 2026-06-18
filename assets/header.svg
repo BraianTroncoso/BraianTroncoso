@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Braian Troncoso — AI-native Full Stack Developer">
+  <defs>
+    <!-- Gradiente de marca Dmeter: ámbar → rosa → violeta. Anima los stops + rota para dar el efecto de "cinta fluyendo". -->
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb454">
+        <animate attributeName="stop-color" values="#ffb454;#ff5fa2;#8b5cf6;#ff5fa2;#ffb454" dur="11s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#ff5fa2">
+        <animate attributeName="stop-color" values="#ff5fa2;#8b5cf6;#ffb454;#8b5cf6;#ff5fa2" dur="11s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#ffb454;#ff5fa2;#ffb454;#8b5cf6" dur="11s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="20s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Fade crema sobre la izquierda para que el texto quede legible -->
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#faf7f2" stop-opacity="1"/>
+      <stop offset="0.42" stop-color="#faf7f2" stop-opacity="1"/>
+      <stop offset="0.72" stop-color="#faf7f2" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="16"/></filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+    <clipPath id="round"><rect width="1200" height="280" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <!-- Fondo crema -->
+    <rect width="1200" height="280" fill="#faf7f2"/>
+
+    <!-- Glow difuso de fondo (derecha) -->
+    <g filter="url(#glow)">
+      <ellipse cx="980" cy="110" rx="250" ry="180" fill="url(#brand)" opacity="0.55">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -22; 0 0" dur="9s" repeatCount="indefinite" additive="sum"/>
+      </ellipse>
+      <ellipse cx="820" cy="210" rx="210" ry="150" fill="url(#brand)" opacity="0.42">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 24; 0 0" dur="11s" repeatCount="indefinite" additive="sum"/>
+      </ellipse>
+    </g>
+
+    <!-- Cintas diagonales fluyendo (estilo hero Dmeter) -->
+    <g filter="url(#soft)">
+      <path d="M 560,-40 L 770,-40 L 1090,320 L 880,320 Z" fill="url(#brand)" opacity="0.85">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 16 -14; 0 0" dur="10s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 760,-40 L 900,-40 L 1210,320 L 1070,320 Z" fill="url(#brand)" opacity="0.7">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -14 18; 0 0" dur="12s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 950,-40 C 1020,90 1020,190 968,320 L 1130,320 C 1188,190 1188,90 1118,-40 Z" fill="url(#brand)" opacity="0.95">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 10 0; 0 0" dur="8s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- Velo crema izquierdo para legibilidad del texto -->
+    <rect width="820" height="280" fill="url(#fade)"/>
+
+    <!-- Texto -->
+    <text x="72" y="138" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-1.5" fill="#16161c">Braian Troncoso</text>
+    <text x="74" y="182" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="23" font-weight="500" letter-spacing="0.5" fill="#6b6b73">AI-native Full Stack Developer</text>
+
+    <!-- Acento de gradiente bajo el nombre -->
+    <rect x="74" y="202" width="190" height="6" rx="3" fill="url(#brand)"/>
+
+    <!-- Línea superior de marca (full width) -->
+    <rect x="0" y="0" width="1200" height="5" fill="url(#brand)"/>
+  </g>
+</svg>

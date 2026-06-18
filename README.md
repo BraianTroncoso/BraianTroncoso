@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/header.svg" alt="Braian Troncoso — AI-native Full Stack Developer" width="100%"/>
+</p>
+
 <h3 align="start">¡Hi 👋! I'm Braian 👨🏻‍💻</h3>
 
 <p align="start">
