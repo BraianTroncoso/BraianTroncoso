@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Braian Troncoso — AI-native Full Stack Developer" width="100%"/>
+  <img src="./assets/header.svg" alt="Engineering AI-powered tools that move businesses forward — AI-native Full Stack Developer" width="100%"/>
 </p>
 
-<h3 align="start">¡Hi 👋! I'm Braian 👨🏻‍💻</h3>
-
-<p align="start">
-   <strong>AI-native Full Stack Developer</strong> 
-</p>
+<h3 align="start"><code>git clone my-brain && enjoy the chaos</code> 🧠</h3>
 
 <p align="start">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
