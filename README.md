@@ -59,6 +59,8 @@
 
 -  **[GAME-JAM-FAD-CUYO-2022](https://github.com/BraianTroncoso/GAME-JAM-FAD-CUYO-2022)** — A complete game built in under 12 hours at a game jam. Ship or die.
 
+-  **[trainme](https://github.com/BraianTroncoso/trainme)** `open source · MIT` — A tiny CLI that preps you for a job interview without ever retyping the prompt. Keep your *persona* in a folder, hand it a job posting, and it builds a ready-to-paste context block — Claude turns it into a 1-hour roadmap, likely Q&A, a profile↔role match and stack tips; a `--fast` 15-min mode gives one line per topic. Reads `.md` / `.txt` / `.pdf` personas, language-aware output, no GUI, no server, no API key. Not a prompt you retype every time. A CLI that loads your persona and preps you in minutes. *(Python 3.10+ + Rich + pypdf + pyperclip)*
+
 ---
 
 ## GitHub Activity on Invisible Geeks
