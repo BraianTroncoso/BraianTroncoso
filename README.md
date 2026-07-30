@@ -87,11 +87,13 @@ Building and scaling the product from scratch alongside the technical and busine
 <details>
 <summary>Random Facts</summary>
 
-- Cut AI generation costs 70% by optimizing token architecture in production
+- I can't live without coffee
 - Build and use custom MCP servers in my daily dev workflow
 - Shipped a design engine with 474+ components from a single Laravel codebase
 - Finished a complete game in under 12 hours at a game jam
 - Powered by mate and stoic philosophy
+- Naruto is the best anime in the world
+- If you believe it, you can do it :)
 
 </details>
 
