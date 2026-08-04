@@ -57,13 +57,6 @@
 
 -  **[trainme](https://github.com/BraianTroncoso/trainme)** `open source · MIT` — A tiny CLI that preps you for an interview from your *persona* + a job posting: a 1-hour roadmap, likely Q&A and stack tips, no retyping. *Not a prompt you retype. A CLI that preps you in minutes.* *(Python + Rich + pypdf)*
 
----
-
-## GitHub Activity on Invisible Geeks
-
-![Work Graph](https://ghchart.rshah.org/braiantroncosoinvisiblegeek)
-
----
 
 ##  Dmeter — Co-Founder *(Sep 2023 – Present)*
 
