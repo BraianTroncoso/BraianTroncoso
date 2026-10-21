@@ -67,6 +67,8 @@
 
 -  **[IwannaWork](https://www.linkedin.com/in/braian-troncoso)** `private` — A job-hunting autopilot: it reads a posting, fills multi-step application forms end to end and keeps every submission tracked in one dashboard, so the search keeps running while you work. *(Python + FastAPI + Vue 3)*
 
+-  **[age-boys](https://www.linkedin.com/in/braian-troncoso)** `private` — A match tracker for an Age of Empires 3 circle of friends: ELO ratings that actually settle arguments, tournaments with brackets, head-to-head records, achievements and a civilization roulette. *(Astro + Firebase + Turso)*
+
 -  **[SecondBraian](https://www.linkedin.com/in/braian-troncoso)** `private` — A personal knowledge vault in Obsidian (PARA + Maps of Content, 10 templates), where chaos becomes clarity. *(Obsidian)*
 
 ---
