@@ -29,7 +29,7 @@
 
 -  **[myjarbis](https://github.com/BraianTroncoso/myjarbis)** `open source · MIT` — Gives Claude Code persistent memory and structured workflows via MCP: one global server, per-project memory, code search and a CLI. Install once, use everywhere. *Not a prompt file. A second memory.* *(TypeScript + MCP + SQLite/FTS5)*
 
--  **[jarbis](https://github.com/BraianTroncoso/jarbis)** `open source · MIT` — The body for that memory: a floating robot face on your desktop that listens, answers out loud and can speak first. Wake word, VAD, Whisper and Piper all run locally, and the body **pushes** events over WebSocket — with MCP the model always asks first, so a proactive assistant is impossible by construction. Every tool call it makes still passes a hook that denies `rm -rf`. *Not an MCP tool. A body.* *(Python + Tkinter + Claude Agent SDK + ONNX)*
+-  **[jarbis](https://github.com/BraianTroncoso/jarbis)** `open source · MIT` — The body for that memory: the agent stops being a terminal you open and becomes a face that lives on your desktop all day, with a live session behind it that remembers between turns. It listens, answers out loud and can speak first — the voice is a layer you can mute, not the product. It **pushes** events over WebSocket, because with MCP the model always asks first and a proactive agent is impossible by construction. Every tool call it makes still passes a hook that denies `rm -rf`. *Not an MCP tool. A body.* *(Python + Tkinter + Claude Agent SDK + ONNX)*
 
 -  **[takeclass](https://github.com/BraianTroncoso/takeclass)** `open source · MIT` — Turns your day's git diff into an English-practice session: vocabulary, a reading script and drills from the code you actually shipped today. *(Claude Code skill + slash command)*
 
